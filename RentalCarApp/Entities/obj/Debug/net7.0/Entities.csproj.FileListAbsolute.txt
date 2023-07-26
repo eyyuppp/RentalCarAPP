@@ -1,0 +1,17 @@
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Core.dll
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Core.pdb
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete
+C:\Users\P2636\source\repos\RentalCarApp\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+C:\Users\P2636\source\repos\RentalCarApp\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache
